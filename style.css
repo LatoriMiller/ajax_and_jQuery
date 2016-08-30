@@ -1,0 +1,11 @@
+h2, h5 {
+  text-align: center;
+  font-family: 'Inconsolata', sans-serif;
+  color: #F28D49;
+}
+input {
+  font-size: 12px;
+  padding: 8px;
+  background-color: #F7DDBE;
+  font-family: 'Inconsolata', sans-serif;
+}
